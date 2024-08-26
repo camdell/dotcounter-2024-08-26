@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: Dot Counter
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Cameron
+    family-names: Riddell
+    email: cameron@dutc.io
+    affiliation: DUTC
+    orcid: 'https://orcid.org/0000-0001-8950-0375'
+
